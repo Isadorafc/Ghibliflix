@@ -1,101 +1,105 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Os Melhores Filmes Ghibli",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": "https://www.youtube.com/watch?v=6zhLBe319KE"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "A Viagem de Chihiro",
+          "url": "https://www.youtube.com/watch?v=ByXuk9QqQkk&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=11"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Ponyo",
+          "url": "https://www.youtube.com/watch?v=CsR3KVgBzSM&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=15"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O Tumulo dos Vagalumes",
+          "url": "https://www.youtube.com/watch?v=4vPeTSRd580&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=2"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "O Serviço de Entregas da Kiki",
+          "url": "https://www.youtube.com/watch?v=4bG17OYs-GA&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Sussuros do Coração",
+          "url": "https://www.youtube.com/watch?v=0pVkiod6V0U&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=8"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Castelo Animado",
+          "url": "https://www.youtube.com/watch?v=iwROgK94zcM&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=13"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Meu Vizinho Totoro",
+          "url": "https://www.youtube.com/watch?v=92a7Hj0ijLs&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=3"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "O Castelo no Céu",
+          "url": "https://www.youtube.com/watch?v=8ykEy-yPBFc&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=1"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Hayao Miyazaki",
+      "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Nausicaä e o Vale dos Ventos (1984)",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "O Castelo no Céu (1986)",
+          "url": "https://www.youtube.com/watch?v=8ykEy-yPBFc&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=1"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Meu Vizinho Totoro (1988)",
+          "url": "https://www.youtube.com/watch?v=92a7Hj0ijLs&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=3"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "O Serviço de Entregas da Kiki (1989)",
+          "url": "https://www.youtube.com/watch?v=4bG17OYs-GA&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Porco Rosso (1992)",
+          "url": "https://www.youtube.com/watch?v=awEC-aLDzjs&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=6"
+        },
+        {
+          "titulo": "Pom Poko (1994)",
+          "url": "https://www.youtube.com/watch?v=_7cowIHjCD4&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=7"
+        }
+      ]
+    },
+    {
+      "titulo": "Isao Takahata",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "titulo": "O Tumulo dos Vagalumes (1988)",
+        "url": "https://www.youtube.com/watch?v=4vPeTSRd580&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=2"
+      },
+      "videos": [
+        {
+          "titulo": "O Tumulo dos Vagalumes (1988)",
+          "url": "https://www.youtube.com/watch?v=4vPeTSRd580&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=2"
+        },
+        {
+          "titulo": "Sussuros do Coração (1995)",
+          "url": "https://www.youtube.com/watch?v=0pVkiod6V0U&list=PLkukk61q9mY_ps9HKovftqotZiKb34BVt&index=8"
+        },
+        {
+          "titulo": "Only Yesterday (1991)",
+          "url": "https://www.youtube.com/watch?v=x0ZrjocXVJ4"
+        },
+        {
+          "titulo": "Pom Poko (1994)",
+          "url": "https://www.youtube.com/watch?v=_7cowIHjCD4"
+        },
+        {
+          "titulo": "O Conto da Princesa Kaguya (2013)",
+          "url": "https://www.youtube.com/watch?v=LBohvCiLZ34"
         }
       ]
     },
